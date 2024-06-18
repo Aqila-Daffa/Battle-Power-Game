@@ -1,0 +1,14 @@
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\bin\Debug\net8.0\Battle-Power-Game.exe
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\bin\Debug\net8.0\Battle-Power-Game.deps.json
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\bin\Debug\net8.0\Battle-Power-Game.runtimeconfig.json
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\bin\Debug\net8.0\Battle-Power-Game.dll
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\bin\Debug\net8.0\Battle-Power-Game.pdb
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\obj\Debug\net8.0\Battle-Power-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\obj\Debug\net8.0\Battle-Power-Game.AssemblyInfoInputs.cache
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\obj\Debug\net8.0\Battle-Power-Game.AssemblyInfo.cs
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\obj\Debug\net8.0\Battle-Power-Game.csproj.CoreCompileInputs.cache
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\obj\Debug\net8.0\Battle-Power-Game.dll
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\obj\Debug\net8.0\refint\Battle-Power-Game.dll
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\obj\Debug\net8.0\Battle-Power-Game.pdb
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\obj\Debug\net8.0\Battle-Power-Game.genruntimeconfig.cache
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Power-Game\Battle-Power-Game\obj\Debug\net8.0\ref\Battle-Power-Game.dll
